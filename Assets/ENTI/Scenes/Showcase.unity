@@ -1023,7 +1023,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -1060,8 +1060,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1554763374}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &17050339 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 17050338}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &20220786 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 0a72a43956b348140a19ebdfa6044bbc, type: 3}
@@ -1453,7 +1461,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -1490,8 +1498,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 765632345}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &25928392 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 25928391}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &26542210
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1608,7 +1624,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -1645,8 +1661,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 769084551}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &29911415 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 29911414}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &31869251
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2850,7 +2874,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -2887,8 +2911,19 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1287534161}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1287534160}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &64900188 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 64900187}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &70986363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6142,7 +6177,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -6179,8 +6214,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1570121768}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &143988967 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 143988966}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &144982553 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -6660,19 +6703,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d6cc2cc239b744a48aec25b6a870be64, type: 3}
       propertyPath: m_LocalRotation.w
-      value: .989642441
+      value: 0.98964244
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d6cc2cc239b744a48aec25b6a870be64, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -.0758450851
+      value: -0.075845085
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d6cc2cc239b744a48aec25b6a870be64, type: 3}
       propertyPath: m_LocalRotation.y
-      value: .0609073043
+      value: 0.060907304
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d6cc2cc239b744a48aec25b6a870be64, type: 3}
       propertyPath: m_LocalRotation.z
-      value: .105573803
+      value: 0.1055738
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7170,7 +7213,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -7207,8 +7250,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1435997643}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &172317187 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 172317186}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &173780705 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: e53245e9e654bb442baa306fc0193b98, type: 3}
@@ -7815,6 +7866,71 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
   m_PrefabInstance: {fileID: 907205263}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &199939242
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -5716681864270162303, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 185.77765
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.725157
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 206.673
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b763f8415a51c5f4eaa4d92c4284621b, type: 2}
+    - target: {fileID: -927199367670048503, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_Name
+      value: Shrooms2 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
 --- !u!4 &201673907 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: e4fba0c1c2380b9449e893e1d71d30d2, type: 3}
@@ -8568,7 +8684,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -8605,8 +8721,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 853666097}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &218825332 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 218825331}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &218969554 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 74ec452f548be0a46b48629efbebf00b, type: 3}
@@ -9841,7 +9965,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -9878,8 +10002,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1032822414}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &268729821 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 268729820}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &268912731 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a56addcf77537374f8394fe55a5c236f, type: 3}
@@ -11010,7 +11142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -11051,13 +11183,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 305054793}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
 --- !u!4 &305054791 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 305054790}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &305054792 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 305054790}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &305054793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 305054792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &306053871
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11069,6 +11221,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_Name
       value: Shrooms3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -11117,13 +11273,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 306053874}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
 --- !u!4 &306053872 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
   m_PrefabInstance: {fileID: 306053871}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &306053873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 306053871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &306053874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 306053873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &306115862 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a29826c9c00850840aeeba304f233c93, type: 3}
@@ -15646,7 +15822,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -15687,13 +15863,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 421243450}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
 --- !u!4 &421243448 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 421243447}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &421243449 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 421243447}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &421243450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 421243449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &422894644 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -16052,15 +16248,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.38547993
+      value: -5.38548
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: .707106829
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -.707106829
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_RootOrder
@@ -19595,7 +19791,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -19632,8 +19828,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 620953728}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &501320876 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 501320875}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &501716283
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22362,7 +22566,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -22399,8 +22603,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1664194898}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &592962851 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 592962850}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &593962596
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23058,7 +23270,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.06644535
+      value: -5.0664454
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_RootOrder
@@ -23382,6 +23594,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 501320875}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &620953728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501320876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &621030672
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25542,7 +25766,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -25579,8 +25803,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2004935248}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &672577763 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 672577762}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &674064123 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: e4fba0c1c2380b9449e893e1d71d30d2, type: 3}
@@ -25694,7 +25926,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -25731,8 +25963,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 714107638}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &678049789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 678049788}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &678815448 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -27219,6 +27459,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
   m_PrefabInstance: {fileID: 678049788}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &714107638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 678049789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &714520320 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 6329f5837c6d2ca41acce9c35908cecb, type: 3}
@@ -28046,6 +28298,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a29826c9c00850840aeeba304f233c93, type: 3}
   m_PrefabInstance: {fileID: 1864986344}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &746894853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 183.99469
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.774
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 206.319
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b763f8415a51c5f4eaa4d92c4284621b, type: 2}
+    - target: {fileID: -927199367670048503, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
+      propertyPath: m_Name
+      value: Shrooms1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b7ec1c517290b7c4c91227bd9b803416, type: 3}
 --- !u!1001 &747163730
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28411,7 +28724,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -28448,8 +28761,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 937771811}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &750492655 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 750492654}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &753003586 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 51ffdcced8a47e44989761520d635e1c, type: 3}
@@ -29025,6 +29346,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
   m_PrefabInstance: {fileID: 25928391}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &765632345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 25928392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &766227736 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -29178,6 +29511,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
   m_PrefabInstance: {fileID: 29911414}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &769084551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 29911415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &770725861 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 232ccc0ffa945864cad5c5fcfc4815b2, type: 3}
@@ -30886,7 +31231,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -30923,8 +31268,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 827992753}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &827992752 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 827992751}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &827992753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 827992752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &830286056
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31438,6 +31803,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51ffdcced8a47e44989761520d635e1c, type: 3}
+--- !u!1001 &853361438
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 183.72426
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.662394
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 207.65413
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b763f8415a51c5f4eaa4d92c4284621b, type: 2}
+    - target: {fileID: -927199367670048503, guid: 90b1723f44692894cb08388591de9195, type: 3}
+      propertyPath: m_Name
+      value: Shrooms3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 90b1723f44692894cb08388591de9195, type: 3}
 --- !u!4 &853658259 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -31448,6 +31874,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
   m_PrefabInstance: {fileID: 218825331}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &853666097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218825332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &854059502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34458,7 +34896,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -34495,8 +34933,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 930655333}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &930655332 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 930655331}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &930655333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930655332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &930835319
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34767,6 +35225,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 750492654}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &937771811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750492655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &938221952 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -37440,7 +37910,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -37477,8 +37947,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1008635132}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &1008635131 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 1008635130}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1008635132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1008635131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1008694275 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 98a04d5041fe0d34492ea8adfad603d7, type: 3}
@@ -38114,7 +38604,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -38151,8 +38641,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1490923512}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &1023583262 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 1023583261}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1025521596
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38573,13 +39071,54 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4416926081852918481, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1030025334}
   m_SourcePrefab: {fileID: 100100000, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+--- !u!1 &1030025332 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4416926081852918481, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  m_PrefabInstance: {fileID: 1030025331}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1030025333 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  m_PrefabInstance: {fileID: 1030025331}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1030025334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1030025332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64ab479c08e80024f92fffa76cfb25af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomGlobalManager
+  playerTransform: {fileID: 1030025333}
+  globalAffectRadius: 1.18
+  globalAffectContrast: 0
+  globalAffectIntensity: 0.5
 --- !u!4 &1032822413 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 268729820}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1032822414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 268729821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1033226330
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38882,7 +39421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -38923,13 +39462,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1041070201}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
 --- !u!4 &1041070199 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 1041070198}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1041070200 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 1041070198}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1041070201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041070200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1041270842
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39141,7 +39700,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -39178,8 +39737,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1047462304}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &1047462303 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 1047462302}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1047462304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1047462303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1049290666 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -39998,7 +40577,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.38547993
+      value: -5.38548
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -42462,7 +43041,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -42499,8 +43078,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1161015029}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &1161015028 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 1161015027}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1161015029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161015028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1162057565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44321,7 +44920,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -44358,8 +44957,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1195061748}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &1195061747 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 1195061746}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1195061748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1195061747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1195342566 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a56addcf77537374f8394fe55a5c236f, type: 3}
@@ -45353,6 +45972,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Shrooms3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
       value: 624
@@ -45400,13 +46023,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1213239294}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
 --- !u!4 &1213239292 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
   m_PrefabInstance: {fileID: 1213239291}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1213239293 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 1213239291}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1213239294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1213239293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1214267711 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: d32a9d79848024a418e282610afe3c4e, type: 3}
@@ -48704,6 +49347,30 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 64900187}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1287534160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 64900188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
+--- !u!114 &1287534161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 64900188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1287554488
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49184,7 +49851,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -49225,13 +49892,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1297665047}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
 --- !u!4 &1297665045 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 1297665044}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1297665046 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 1297665044}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1297665047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297665046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1300376416 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a6a1e8d8605f1ee45bfebaf6f04f3d62, type: 3}
@@ -49665,7 +50352,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -49706,13 +50393,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1313868542}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
 --- !u!4 &1313868540 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 1313868539}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1313868541 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 1313868539}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1313868542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1313868541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1314862383 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -53426,7 +54133,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -53463,13 +54170,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1850712224}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &1434843489 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 1434843488}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1435997642 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 172317186}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1435997643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 172317187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1 &1436699262
 GameObject:
   m_ObjectHideFlags: 0
@@ -55388,6 +56115,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
   m_PrefabInstance: {fileID: 1023583261}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1490923512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023583262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1492893781
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55398,7 +56137,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -55435,8 +56174,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1856035298}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &1492893782 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 1492893781}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1493482189
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55718,7 +56465,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -55755,8 +56502,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1587854973}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &1498496387 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 1498496386}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1498910734 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 8550da761d15a334f87c57a779e26d15, type: 3}
@@ -58880,6 +59635,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
   m_PrefabInstance: {fileID: 17050338}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1554763374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17050339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1554833663
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59454,6 +60221,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 143988966}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1570121768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 143988967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1570629329 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -59537,7 +60316,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -59574,8 +60353,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1579157519}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &1579157518 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 1579157517}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1579157519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579157518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1579697075 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
@@ -59753,6 +60552,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 1498496386}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1587854973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1498496387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1588163159 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: e53245e9e654bb442baa306fc0193b98, type: 3}
@@ -60234,7 +61045,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -60271,8 +61082,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1596897175}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &1596897174 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 1596897173}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1596897175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1596897174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1597867398 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: c75e49539eeedee4fad15ea93f83d36d, type: 3}
@@ -62808,6 +63639,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
   m_PrefabInstance: {fileID: 592962850}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1664194898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 592962851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1664558078 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -64112,7 +64955,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -64149,8 +64992,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1688761072}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &1688761071 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 1688761070}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1688761072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688761071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1689124192
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -64234,7 +65097,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -64271,8 +65134,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1999547211}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &1689176910 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 1689176909}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1689541468
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -68424,6 +69295,71 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7c5ca1d80b2514aa1f027745718d04, type: 3}
+--- !u!1001 &1811200323
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 183.41743
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.725158
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 208.42651
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b763f8415a51c5f4eaa4d92c4284621b, type: 2}
+    - target: {fileID: -927199367670048503, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
+      propertyPath: m_Name
+      value: Shrooms2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ba88db964bf8237429a1e1893491d18b, type: 3}
 --- !u!4 &1815135970 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -69571,7 +70507,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -69608,8 +70544,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1847357464}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &1847357463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 1847357462}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1847357464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847357463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1847783777 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -69670,6 +70626,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 1434843488}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1850712224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1434843489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1 &1852729321
 GameObject:
   m_ObjectHideFlags: 0
@@ -69871,6 +70839,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 1492893781}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1856035298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1492893782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1857945219 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 7ba56fed1e6159246b6edf28389a41a6, type: 3}
@@ -72345,7 +73325,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -72382,8 +73362,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1931593370}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &1931593369 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 1931593368}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1931593370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931593369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1933132600
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -72603,7 +73603,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.91643047
+      value: -3.9164305
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 90072fbb08df4f8428e420f726013a5b, type: 3}
       propertyPath: m_RootOrder
@@ -74500,7 +75500,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -74537,8 +75537,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1986713473}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
+--- !u!1 &1986713472 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 1986713471}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1986713473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1986713472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1986746634 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 2db79e395a8bcb645bfcc82804c14e93, type: 3}
@@ -75046,7 +76066,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
       propertyPath: m_RootOrder
@@ -75087,13 +76107,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1993290604}
   m_SourcePrefab: {fileID: 100100000, guid: a98318926d746c347a4e443946273241, type: 3}
 --- !u!4 &1993290602 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: a98318926d746c347a4e443946273241, type: 3}
   m_PrefabInstance: {fileID: 1993290601}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1993290603 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a98318926d746c347a4e443946273241, type: 3}
+  m_PrefabInstance: {fileID: 1993290601}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1993290604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1993290603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1994497078
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -75330,7 +76370,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
       propertyPath: m_RootOrder
@@ -75367,8 +76407,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1998044734}
   m_SourcePrefab: {fileID: 100100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+--- !u!1 &1998044733 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 283c6652a19114340bc1d9d50eec4d52, type: 3}
+  m_PrefabInstance: {fileID: 1998044732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1998044734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1998044733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &1998194460 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: f0f45392371b2f144982410f25598fc4, type: 3}
@@ -75513,6 +76573,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 1689176909}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1999547211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689176910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &1999820932
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -75756,6 +76828,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
   m_PrefabInstance: {fileID: 672577762}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2004935248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 672577763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!4 &2005341265 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 80e93bebfbbd6da409d3e9e3c7049540, type: 3}
@@ -79011,7 +80095,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
       propertyPath: m_RootOrder
@@ -79048,8 +80132,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2067688529}
   m_SourcePrefab: {fileID: 100100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+--- !u!1 &2067688528 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 55321c57b40885b4fa02cd582bf698bd, type: 3}
+  m_PrefabInstance: {fileID: 2067688527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2067688529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067688528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &2068843494
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -79389,7 +80493,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -79426,8 +80530,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2080814581}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &2080814580 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 2080814579}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2080814581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080814580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &2085235514
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -81258,7 +82382,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
       propertyPath: m_RootOrder
@@ -81295,8 +82419,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2142338655}
   m_SourcePrefab: {fileID: 100100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+--- !u!1 &2142338654 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: a5aac454b4cd5b4408d4131d8eff851a, type: 3}
+  m_PrefabInstance: {fileID: 2142338653}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2142338655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2142338654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29091e965595cb4580979fe55bc2447, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MushroomInstanceColor
 --- !u!1001 &2144609775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -81427,3 +82571,7 @@ SceneRoots:
   - {fileID: 363497690}
   - {fileID: 1348407145}
   - {fileID: 1030025331}
+  - {fileID: 1811200323}
+  - {fileID: 853361438}
+  - {fileID: 199939242}
+  - {fileID: 746894853}
