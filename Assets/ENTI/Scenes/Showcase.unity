@@ -30467,7 +30467,7 @@ GameObject:
   - component: {fileID: 792986617}
   - component: {fileID: 792986616}
   - component: {fileID: 792986615}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30492,7 +30492,7 @@ MonoBehaviour:
   resolution: 512
   simulationSize: 10
   playerRadius: 2
-  playerHardness: 0.3
+  playerHardness: 0.955
   showFlowOnThisRenderer: 0
 --- !u!64 &792986616
 MeshCollider:
@@ -39408,11 +39408,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4416926081852918481, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
   m_PrefabInstance: {fileID: 1030025331}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1030025333 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
-  m_PrefabInstance: {fileID: 1030025331}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1030025334
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39425,7 +39420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64ab479c08e80024f92fffa76cfb25af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MushroomGlobalManager
-  playerTransform: {fileID: 1030025333}
+  playerTransform: {fileID: 121433178}
   globalAffectRadius: 1.18
   globalAffectContrast: 1
   globalAffectIntensity: 0.5
