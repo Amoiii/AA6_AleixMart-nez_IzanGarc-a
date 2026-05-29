@@ -21,28 +21,31 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: shrooms
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 1415d3b4b4f6e654f971d62393826d6b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - _EMISSION
+  - _METALLICGLOSSMAP
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
   - _SPECGLOSSMAP
-  m_InvalidKeywords:
-  - _METALLICGLOSSMAP
   m_LightmapFlags: 1
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _AlbedoMap:
+        m_Texture: {fileID: 2800000, guid: 3f662d5e0e428674ea2d7c5d79c1781a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 2800000, guid: 3f662d5e0e428674ea2d7c5d79c1781a, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -75,6 +78,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 6a3bcb8bb347d604fb906cc480c7bb50, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 2800000, guid: 6a3bcb8bb347d604fb906cc480c7bb50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 9d75c5f4bd83b894097f21883967a7b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -102,6 +113,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _AddPrecomputedVelocity: 0
+    - _Affect_Contrast: 0
+    - _Affect_Intensity: 0.5
+    - _Affect_Radius: 1.18
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
@@ -120,19 +134,17 @@ Material:
     - _Glossiness: 0.395
     - _GlossyReflections: 1
     - _Metallic: 0
-    - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Shininess: 0.27706474
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _UVSec: 0
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
@@ -140,6 +152,7 @@ Material:
     - _BaseColor: {r: 0.92537314, g: 0.91726005, b: 0.9046558, a: 1}
     - _Color: {r: 0.92537314, g: 0.91726005, b: 0.9046558, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PlayerPosition: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.35074627, g: 0.3559813, b: 0.3559813, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
