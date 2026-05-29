@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mat_WaterSimulation
-  m_Shader: {fileID: -6465566751694194690, guid: f036c0bcc230575418b1745bb1f808ae, type: 3}
+  m_Name: Mat_RuntimeFlowmapSimulation
+  m_Shader: {fileID: 4800000, guid: 17f89d5764903644db179f6964eb7003, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -89,6 +89,7 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
+    - _BaseFlowStrength: 1
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
@@ -98,6 +99,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
+    - _Dissipation: 0.04
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -107,9 +109,8 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _PlayerHardness: 0.955
+    - _PlayerHardness: 0.818
     - _PlayerRadius: 2
-    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
@@ -123,17 +124,19 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseFlowDirection: {r: 0.97014254, g: 0.24253564, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Position: {r: 184.10777, g: 8.510103, b: 205.86278, a: 0}
-    - _SimulationCentre: {r: 0, g: 0, b: 0, a: 0}
+    - _PlayerUV: {r: 0.5472992, g: 0.51687163, b: 0, a: 0}
+    - _Position: {r: 192.0092, g: 8.699999, b: 205.70715, a: 0}
+    - _SimulationCentre: {r: 194.98, g: 8.71, b: 206.07646, a: 0}
     - _SimulationSize: {r: 10, g: 0, b: 10, a: 0}
-    - _Simulation_Centre: {r: 194.98, g: 8.71, b: 206.07646, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Velocity: {r: 0, g: 0, b: 0, a: 0}
+    - _VelocityUV: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &307347982404109026
+--- !u!114 &7470812368947395515
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

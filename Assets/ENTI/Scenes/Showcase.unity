@@ -30487,13 +30487,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RuntimeFlowmap
   player: {fileID: 121433178}
-  simulationMaterial: {fileID: 2100000, guid: 26a9316dde3fa2f4ca2338098725e232, type: 2}
+  simulationMaterial: {fileID: 2100000, guid: 052b358b13a7e654689d19359be97e9d, type: 2}
   waterMaterial: {fileID: 2100000, guid: ec7edc16b77dd9d4aa78ba222980a16e, type: 2}
+  waterRenderer: {fileID: 792986617}
   resolution: 512
-  simulationSize: 10
   playerRadius: 2
-  playerHardness: 0.955
-  showFlowOnThisRenderer: 0
+  playerHardness: 0.818
+  baseFlowDirection: {x: 1, y: 0.25}
+  baseFlowStrength: 1
+  dissipation: 0.04
+  invertU: 1
+  invertV: 1
 --- !u!64 &792986616
 MeshCollider:
   m_ObjectHideFlags: 0
